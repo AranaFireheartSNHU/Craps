@@ -3,4 +3,4 @@ project(Craps)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Craps main.cpp)
+add_executable(Craps main.cpp die.cpp die.h)
